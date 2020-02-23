@@ -10,7 +10,6 @@ The model featured in the app, is a pre-trained COCO SSD system.
 Only a browser and a local web server.
 
 <h2>Instructions</h2>
-To launch the web app, go to the root directory of the app, and launch a web server. An easy way to create a one is with Python, 
-using the following command $ python3 -m http.server or $ python -m SimpleHTTPServer  if you're using Python 2.
+To launch the web app, go to the root directory of the app, and launch a web server. An easy way to create a one is with Python, using the following command $ python3 -m http.server or $ python -m SimpleHTTPServer  if you're using Python 2.
 
 Once the server is up and running, open your browser, and go to http://localhost:8000/, and you'll be greeted by a prompt window requesting permission to access the webcam. Upon accepting said request, wait a bit until the model is downloaded and voila, rejoice with the glory of out-of-the-box deep learning. Have fun!
